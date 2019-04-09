@@ -3,6 +3,6 @@ instance1
 instance2
 
 [instances:vars]
-user_name=ajindal
+user_name=arun
 user_des="Dev Team User"
 
